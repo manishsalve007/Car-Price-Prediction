@@ -80,3 +80,4 @@ wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 wrapt==1.11.2
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
+gunicorn
